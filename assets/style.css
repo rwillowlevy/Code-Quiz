@@ -1,0 +1,28 @@
+body {
+    background-color: #6495ED;
+}
+h1, h2, h3 {
+    font-family: "Comic Sans MS";
+    text-align: center; 
+    padding: 10px;
+    color: #6495ED;
+}
+#questions {
+    margin:auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.quiz {
+   display: inline-block; 
+}
+.container {
+    width:auto;
+    margin:0 auto;
+    padding:25px 25px;
+    border:10px solid #FFFACD;
+    background:#fff;
+    text-align: center;
+}
