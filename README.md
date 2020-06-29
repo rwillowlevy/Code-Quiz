@@ -4,8 +4,7 @@ A simplistic 5 questioned code quiz given only 240 seconds (3 minutes) to comple
 
 ## Code Quiz Gif
 
-[![Alt text for your video](https://drive.google.com/file/d/1p8G4GHlKVNIdwhSMGUZumNJhTImFjmqo/view)
-
+![Alt Text](https://github.com/rwillowlevy/Code-quiz/blob/master/Codequiz.gif)
 
 
 ## User Story
